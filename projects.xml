@@ -17,7 +17,7 @@
   </project>
   
   <project>
-    <title>Presidential Tweet &amp; Market Volatility Model</title>
+    <title>Market Volatility Model</title>
     <imageSrc>assets/images/Project3Thumbnail.png</imageSrc>
     <technologies>Python</technologies>
     <description>We designed and developed Decision Tree and Random Forest models to construct, train, and tune hyper-parameters, reduce runtimes, and increase the granularity of real-time predictions of market volatility based on Presidential tweets and the DJI.</description>
